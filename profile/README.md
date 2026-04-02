@@ -4,7 +4,7 @@
 
 <br/>
 
-> **Think Trustpilot — for the people you've dated.**
+> **Think Trustpilot + crypto having babies..**
 >
 > Anonymous. Structured. Moderated.
 
