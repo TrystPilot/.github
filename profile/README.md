@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Trystpilot&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Anonymous+Relationship+Review+Directory&descAlignY=58&descSize=18" width="100%" />
+<img width="1773" height="886" alt="trystpilot-github (1)" src="https://github.com/user-attachments/assets/e3cd6e58-aba6-4a0f-af1c-afc4d997ee16" width="100%"/>
 
 <br/>
 
