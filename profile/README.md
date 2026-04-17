@@ -20,6 +20,15 @@
 
 We believe accountability and privacy aren't opposites. Trystpilot is built to hold both.
 
+v1.0.0 Romantic ✅ (100+ features, production-live)
+v1.2.0 Professional ✅ Phase 1 + ✅ Phase 2 Task 1 (infrastructure complete + seeding complete)
+v1.3.0 Financial ⚙️ (type definitions ready, planned)
+v1.4.0 Service ⚙️ (type definitions ready, planned)
+v1.5.0 Civic/Elected ⏳ (civic integration exists, planned)
+v1.6.0 DX ⏳(Subscriber Tier Automation, planned)
+
+Each of the described relationships above have unique experiences between those whom participate in them. We have thoughtfully created each one's use case in a way where people, businesses, elected offices and influencers across the world can claim their profiles if they choose to do so. Doing so enables you the ability to participate in voluntary mediation with the reviewing party confidentially and without contractual obligations. We want you to take the lead on improvement with your communications across any review both good and bad in a civic and private way. This is the only way truly we believe can bridge gaps in trust of all relationships.
+
 ---
 
 ## How It Works
